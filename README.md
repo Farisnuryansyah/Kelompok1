@@ -109,9 +109,8 @@ Hasil pengujian menunjukkan bahwa seluruh fungsi utama berjalan sesuai harapan, 
 |------|--------|
 | **Faris Nuryansyah** | Project Manager |
 | **Ahmad Rifai** | Backend |
-| **Riski Septianto** | Backend |
+| **Riski Septianto** | Frontend |
 | **Mahesa Fatir** | Frontend |
-| **M. Rizal Satriawan** | Frontend |
 
 ---
 
