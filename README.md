@@ -1,4 +1,3 @@
-![alt text](https://github.com/Farisnuryansyah/Kelompok1/blob/master/Gambar%20WhatsApp%202025-10-27%20pukul%2021.05.11_bd5f1373.jpg?raw+true)
 # APP ABSENSI MAHASISWA
 
 ## Pendahuluan
@@ -111,6 +110,7 @@ Hasil pengujian menunjukkan bahwa seluruh fungsi utama berjalan sesuai harapan, 
 | **Ahmad Rifai** | Backend |
 | **Riski Septianto** | Frontend |
 | **Mahesa Fatir** | Frontend |
+| **M.Rizal Satriawan** | Helper Front & Backend |
 
 ---
 
